@@ -1,0 +1,11 @@
+---
+title: "Chloe Feng"
+image: "resume/headshot.jpg"
+about: 
+  template: jolla
+  links: 
+    - icon: envelope
+      href: fengbixiao857@gmail.com
+    - icon: linkedin
+      href: https://www.linkedin.com/in/bixiao-feng-046b15304/
+---
